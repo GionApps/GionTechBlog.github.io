@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gion Tech Blog</title>
-    <link>https://example.org/</link>
+    <link>https://gionapps.github.io/GionTechBlog.github.io/</link>
     <description>Recent content on Gion Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Apr 2021 23:40:54 +0900</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 23:40:54 +0900</lastBuildDate><atom:link href="https://gionapps.github.io/GionTechBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>作品一覧</title>
-      <link>https://example.org/work/work/</link>
+      <link>https://gionapps.github.io/GionTechBlog.github.io/work/work/</link>
       <pubDate>Wed, 07 Apr 2021 23:40:54 +0900</pubDate>
       
-      <guid>https://example.org/work/work/</guid>
+      <guid>https://gionapps.github.io/GionTechBlog.github.io/work/work/</guid>
       <description>作った Android アプリです。よかったら使ってください。
   シンプルポモドーロタイマー「POOMO」
 仕事や勉強が捗る魔法のタイマー！
@@ -26,11 +26,11 @@ VibMap
     
     <item>
       <title>About</title>
-      <link>https://example.org/2021/04/about/</link>
+      <link>https://gionapps.github.io/GionTechBlog.github.io/2021/04/about/</link>
       <pubDate>Wed, 07 Apr 2021 23:01:43 +0900</pubDate>
       
-      <guid>https://example.org/2021/04/about/</guid>
-      <description>&lt;p&gt;株式会社 Gion Apps の技術ブログです。&lt;br&gt;
+      <guid>https://gionapps.github.io/GionTechBlog.github.io/2021/04/about/</guid>
+      <description>&lt;p&gt;Gion Apps の技術ブログです。&lt;br&gt;
 主に以下の内容について書くと思います（未定）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -49,10 +49,10 @@ HWよりの内容が多くなるかもしれません。&lt;/p&gt;</description>
     
     <item>
       <title>メンバー</title>
-      <link>https://example.org/member/member/</link>
+      <link>https://gionapps.github.io/GionTechBlog.github.io/member/member/</link>
       <pubDate>Wed, 07 Apr 2021 22:59:30 +0900</pubDate>
       
-      <guid>https://example.org/member/member/</guid>
+      <guid>https://gionapps.github.io/GionTechBlog.github.io/member/member/</guid>
       <description>Gion Apps の社員は以下の3名です。
   motta
   shori

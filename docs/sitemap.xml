@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/</loc>
     <lastmod>2021-04-07T23:40:54+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/work/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/work/</loc>
     <lastmod>2021-04-07T23:40:54+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/work/work/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/work/work/</loc>
     <lastmod>2021-04-07T23:40:54+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/about/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/tags/about/</loc>
     <lastmod>2021-04-07T23:01:43+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/about/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/categories/about/</loc>
     <lastmod>2021-04-07T23:01:43+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/2021/04/about/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/2021/04/about/</loc>
     <lastmod>2021-04-07T23:01:43+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/categories/</loc>
     <lastmod>2021-04-07T23:01:43+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hello-world/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/tags/hello-world/</loc>
     <lastmod>2021-04-07T23:01:43+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/post/</loc>
     <lastmod>2021-04-07T23:01:43+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/tags/</loc>
     <lastmod>2021-04-07T23:01:43+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/member/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/member/</loc>
     <lastmod>2021-04-07T22:59:30+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/member/member/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/member/member/</loc>
     <lastmod>2021-04-07T22:59:30+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/archives/</loc>
+    <loc>https://gionapps.github.io/GionTechBlog.github.io/archives/</loc>
   </url>
 </urlset>

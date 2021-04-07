@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Gion Tech Blog</title>
-    <link>https://example.org/work/</link>
+    <link>https://gionapps.github.io/GionTechBlog.github.io/work/</link>
     <description>Recent content in Works on Gion Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Apr 2021 23:40:54 +0900</lastBuildDate><atom:link href="https://example.org/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 23:40:54 +0900</lastBuildDate><atom:link href="https://gionapps.github.io/GionTechBlog.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>作品一覧</title>
-      <link>https://example.org/work/work/</link>
+      <link>https://gionapps.github.io/GionTechBlog.github.io/work/work/</link>
       <pubDate>Wed, 07 Apr 2021 23:40:54 +0900</pubDate>
       
-      <guid>https://example.org/work/work/</guid>
+      <guid>https://gionapps.github.io/GionTechBlog.github.io/work/work/</guid>
       <description>作った Android アプリです。よかったら使ってください。
   シンプルポモドーロタイマー「POOMO」
 仕事や勉強が捗る魔法のタイマー！

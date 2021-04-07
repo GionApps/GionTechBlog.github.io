@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Gion Tech Blog</title>
-    <link>https://example.org/post/</link>
+    <link>https://gionapps.github.io/GionTechBlog.github.io/post/</link>
     <description>Recent content in Posts on Gion Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Apr 2021 23:01:43 +0900</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 23:01:43 +0900</lastBuildDate><atom:link href="https://gionapps.github.io/GionTechBlog.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.org/2021/04/about/</link>
+      <link>https://gionapps.github.io/GionTechBlog.github.io/2021/04/about/</link>
       <pubDate>Wed, 07 Apr 2021 23:01:43 +0900</pubDate>
       
-      <guid>https://example.org/2021/04/about/</guid>
-      <description>&lt;p&gt;株式会社 Gion Apps の技術ブログです。&lt;br&gt;
+      <guid>https://gionapps.github.io/GionTechBlog.github.io/2021/04/about/</guid>
+      <description>&lt;p&gt;Gion Apps の技術ブログです。&lt;br&gt;
 主に以下の内容について書くと思います（未定）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

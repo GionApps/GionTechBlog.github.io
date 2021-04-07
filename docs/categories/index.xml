@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Gion Tech Blog</title>
-    <link>https://example.org/categories/</link>
+    <link>https://gionapps.github.io/GionTechBlog.github.io/categories/</link>
     <description>Recent content in Categories on Gion Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Apr 2021 23:01:43 +0900</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Apr 2021 23:01:43 +0900</lastBuildDate><atom:link href="https://gionapps.github.io/GionTechBlog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.org/categories/about/</link>
+      <link>https://gionapps.github.io/GionTechBlog.github.io/categories/about/</link>
       <pubDate>Wed, 07 Apr 2021 23:01:43 +0900</pubDate>
       
-      <guid>https://example.org/categories/about/</guid>
+      <guid>https://gionapps.github.io/GionTechBlog.github.io/categories/about/</guid>
       <description></description>
     </item>
     
