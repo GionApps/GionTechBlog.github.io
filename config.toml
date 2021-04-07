@@ -14,7 +14,7 @@
 
 publishDir = "docs"
 
-baseURL = "https://example.org/"
+baseURL = "https://gionapps.github.io/GionTechBlog.github.io/"
 languageCode = "ja"
 defaultContentLanguage = "ja"
 title = "Gion Tech Blog"
@@ -34,7 +34,7 @@ canonifyurls = true
 
 [author]
   name = "Gion Tech Blog"
-  bio = "株式会社 Gion の技術ブログです"
+  bio = "Gion Apps の技術ブログです"
   #job = "組み込みエンジニア"
   location = "京都"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog

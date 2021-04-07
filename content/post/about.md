@@ -11,7 +11,7 @@ keywords:
 # thumbnailImage: images/gion_icon.png
 ---
 
-株式会社 Gion Apps の技術ブログです。  
+Gion Apps の技術ブログです。  
 主に以下の内容について書くと思います（未定）
 
 - IoTぽいこと
