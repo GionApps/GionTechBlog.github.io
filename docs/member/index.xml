@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Gion Tech Blog</title>
+    <link>https://example.org/member/</link>
+    <description>Recent content in Members on Gion Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 07 Apr 2021 22:59:30 +0900</lastBuildDate><atom:link href="https://example.org/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>メンバー</title>
+      <link>https://example.org/member/member/</link>
+      <pubDate>Wed, 07 Apr 2021 22:59:30 +0900</pubDate>
+      
+      <guid>https://example.org/member/member/</guid>
+      <description>Gion Apps の社員は以下の3名です。
+  motta
+  shori
+  akihironn
+  </description>
+    </item>
+    
+  </channel>
+</rss>

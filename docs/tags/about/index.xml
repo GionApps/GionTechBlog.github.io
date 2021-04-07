@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Gion Tech Blog</title>
+    <link>https://example.org/tags/about/</link>
+    <description>Recent content in About on Gion Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 07 Apr 2021 23:01:43 +0900</lastBuildDate><atom:link href="https://example.org/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/2021/04/about/</link>
+      <pubDate>Wed, 07 Apr 2021 23:01:43 +0900</pubDate>
+      
+      <guid>https://example.org/2021/04/about/</guid>
+      <description>&lt;p&gt;株式会社 Gion Apps の技術ブログです。&lt;br&gt;
+主に以下の内容について書くと思います（未定）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;IoTぽいこと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3Dプリンター&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;競馬予想プログラム&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;などなど。
+HWよりの内容が多くなるかもしれません。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
